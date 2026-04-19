@@ -1,5 +1,3 @@
-//Base Rombakan By XnullViolet
-//2026-2027🀄
 
 const {
     default: makeWASocket,
